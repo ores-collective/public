@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AIgorithm//SaveTheDate//EN
+BEGIN:VEVENT
+UID:20240522T180000Z-aigorithm@event.com
+DTSTAMP:20250425T120000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20240522T180000
+DTEND;TZID=Asia/Ho_Chi_Minh:20240522T210000
+SUMMARY:AIgorithm Save The Date
+LOCATION:Lieu secret
+DESCRIPTION:AIgorithm\nThe New Codes of Creations.\nWhere AI is more than just code.\nWhere machines and humans create together.\nA first look at the future of creativity,\nbefore the rest of the world.\nMore details coming soon.
+END:VEVENT
+END:VCALENDAR
